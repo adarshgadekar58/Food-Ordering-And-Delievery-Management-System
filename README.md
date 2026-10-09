@@ -1,4 +1,4 @@
-# Food-Ordering-And-Delievery-Management-System
+
 # 🍔 Food Ordering & Delivery Management System
 
 A full-stack, server-rendered web application where customers browse restaurants, explore menus and manage a shopping cart, while administrators manage restaurants and menu items. Built with **Java 17, Spring Boot, Spring MVC, JSP, Spring Data JPA/Hibernate and Oracle Database**, with a strong focus on **security and clean layered architecture**.
@@ -186,21 +186,14 @@ Planned improvements (not implemented yet):
 
 ---
 
-## 📸 Screenshots
 
-<!-- Add 3-4 screenshots to a /docs folder and reference them here, e.g.:
-![Restaurants page](docs/restaurants.png)
-![Cart page](docs/cart.png)
--->
 
----
+## 👤 Adarsh
 
-## 👤 Author
-
-**[Your Name]**
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 📧 Email: your.email@example.com
-- 🐙 GitHub: [@your-username](https://github.com/your-username)
+**[Adarsh Gadekar]**
+- 💼 LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/adarsh-gadekar-b37564302)
+- 📧 Email: adarshgadekar58@example.com
+- 🐙 GitHub: [@your-username](https://github.com/adarshgadekar58)
 
 I'm actively looking for **[Java / Backend / Full-Stack developer]** opportunities. Feel free to reach out.
 
