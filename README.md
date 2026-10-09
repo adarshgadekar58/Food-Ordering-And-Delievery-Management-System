@@ -193,7 +193,7 @@ Planned improvements (not implemented yet):
 **[Adarsh Gadekar]**
 - 💼 LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/adarsh-gadekar-b37564302)
 - 📧 Email: adarshgadekar58@example.com
-- 🐙 GitHub: [@your-username](https://github.com/adarshgadekar58)
+- 🐙 GitHub: [adarshgadekar58](https://github.com/adarshgadekar58)
 
 I'm actively looking for **[Java / Backend / Full-Stack developer]** opportunities. Feel free to reach out.
 
